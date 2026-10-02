@@ -1,0 +1,18 @@
+﻿# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache e checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Projeto com repositorio proprio
+Classificação Renda Adult/
+
+# Relatorio entregue ao professor (nao faz parte do codigo)
+Atividade Regressão Diabetes/Relatorio_Regressao_Diabetes.*
