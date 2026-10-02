@@ -1,4 +1,4 @@
-# Ciência de Dados — Notebooks
+﻿# Ciência de Dados — Notebooks
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
@@ -40,8 +40,8 @@ sintético e uma comparação de algoritmos de regressão na base Diabetes.
 ## Como executar
 
 ```bash
-git clone https://github.com/plfrancisco/ciencia-de-dados-notebooks.git
-cd ciencia-de-dados-notebooks
+git clone https://github.com/plfrancisco/regressao-diabetes-dataset.git
+cd regressao-diabetes-dataset
 
 # Ambiente virtual e dependências
 python -m venv .venv
